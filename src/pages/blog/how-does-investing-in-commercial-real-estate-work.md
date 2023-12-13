@@ -14,7 +14,7 @@ featuredImage:
 ---
 Commercial Real Estate, popularized over the years, works by keeping a positive cash flow for the owner and adding profits into their bank accounts. A commercial real estate investment could be done on a large scale or even at a smaller one, depending upon the capital and tendency of an individual to work with. It can be diversified into various categories, including a few fundamentals of this industry, to do your business without any hindrance, and having knowledge of how to generate financial returns after making investments in commercial real estate. Primarily, there are two main ways of producing returns in real estate: Rental Income and Appreciation Methods.
 
-**Supporting Weblink:** <https://fundrise.com/education/>
+**Supporting [Weblink](https://fundrise.com/education/):** <https://fundrise.com/education/>
 
 **Rental Income:**
 
