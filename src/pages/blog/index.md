@@ -1,14 +1,17 @@
 ---
 templateKey: blog-archive
-published: true
-schemaType: WebPage
 pageSlug: /blog
 pageTitle: Blog
-metaDescription: '{{client_name}}’s blog'
-header: '{{client_name}}’s Blog'
-subheader: ~
+metaDescription: Possessing more than three decades of experience in real estate
+  investing, Keith Scribner prepared for his career by earning a bachelor's
+  degree in business management and marketing from Eastern Washington University
+  in Spokane, Washington.
+published: true
+schemaType: WebPage
+header: Keith Scribner’s Blog
+subheader: null
 featuredImage:
-  src: ~
-  alt: ~
-  caption: ~
+  ? src
+  ? alt
+  ? caption
 ---
