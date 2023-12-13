@@ -1,31 +1,31 @@
 ---
-templateKey: 'site-data'
+templateKey: site-data
 published: false
-name: '{{client_name}}'
-jobTitle: '{{job_title}}'
-siteName: '{{site_name}}'
-siteUrl: 'https://{{site_url}}'
-siteAnalytics: ~
+name: Keith Scribner
+jobTitle: Spokane Developer
+siteName: Keith Scribner
+siteUrl: https://www.keithscribner.net/
+siteAnalytics: null
+favicon: /img/favicon.png
+fallbackImage: /img/keith-scribner-spokane.jpeg
 socialLinks:
   twitter:
-    url: ''
+    url: ""
     show: false
   facebook:
-    url: ''
+    url: ""
     show: false
   linkedin:
-    url: ''
-    show: false
+    url: https://www.linkedin.com/in/keith-scribner
+    show: true
   pinterest:
-    url: ''
+    url: ""
     show: false
   instagram:
-    url: ''
+    url: ""
     show: false
-favicon: '/img/favicon.png'
-fallbackImage: '/img/headshot.jpg'
 themeOptions:
-  colorScheme: 'londn'
-  fontScheme: 'muli'
+  colorScheme: londn
+  fontScheme: muli
   showThemeSwitcher: false
 ---
