@@ -21,6 +21,8 @@ With the rising demand for commercial real estate properties in the market, ther
 
 A property owner should create a website that attracts the attention of a broad population. In that case, it is essential to work on the credibility and validity of the website, ensuring that the same colors and logo are incorporated in the business website and the individual website. A catchy description of the property on the website, too, increases the readability and number of responses. Moreover, a branded URL should be used, and the domain name must incorporate the property name and its location. It would help your website rank high in searches.
 
+
+
 **Select your Target Population:**
 
 Identifying the population for your website is one of the initial steps one needs to take. It is vital to use the tone and language of website content according to the interests and understanding of your customers. For instance, if you are targeting real estate brokers so you can opt for complex words or jargon that are comprehendible by them. However, more engaging and provocative content should be used if you focus on landlords leasing your property.
